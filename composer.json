@@ -1,6 +1,6 @@
 {
     "name": "leazycms/simpel",
-    "description": "Extensi LeazyCMS untuk Monografi Desa",
+    "description": "Extensi LeazyCMS untuk Sistem Pelayanan",
     "type": "library",
     "license": "MIT",
     "keywords": ["PHP"],
